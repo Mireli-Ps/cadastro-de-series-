@@ -1,2 +1,3 @@
 # cadastro-de-series-
-Criando um APP simples de cadastro de séries em .NET
+Criando uma solução simples de cadastro de séries em .NET
+Solução feita na aula dentro da plataforma da Digital inovation one.
