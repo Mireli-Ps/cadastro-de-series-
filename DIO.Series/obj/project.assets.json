@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\cursoc#\\DIO.Series\\DIO.Series.csproj",
+      "projectUniqueName": "C:\\cursoc#\\cadastro-de-series-\\DIO.Series\\DIO.Series.csproj",
       "projectName": "DIO.Series",
-      "projectPath": "C:\\cursoc#\\DIO.Series\\DIO.Series.csproj",
+      "projectPath": "C:\\cursoc#\\cadastro-de-series-\\DIO.Series\\DIO.Series.csproj",
       "packagesPath": "C:\\Users\\Mireli\\.nuget\\packages\\",
-      "outputPath": "C:\\cursoc#\\DIO.Series\\obj\\",
+      "outputPath": "C:\\cursoc#\\cadastro-de-series-\\DIO.Series\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
